@@ -1,0 +1,9 @@
+blogvenv/
+__pycache__/
+.env
+database_handler.ipynb
+.vercel
+venv/
+Final_FootRest.ipynb
+ngrok-stable-linux-amd64.zip
+ngrok
